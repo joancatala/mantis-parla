@@ -37,3 +37,6 @@ Podràs instal·lar fàcilment els mòduls amb:
 pip3 install feedparser sty
 
 Probablement, una de les aplicacions més frikis que he fet en ma vida XDDDD
+
+He pujat un video al Youtube per a que entengues què fa aquest script:
+https://www.youtube.com/watch?v=D_k34P53D4g
