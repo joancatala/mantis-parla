@@ -12,6 +12,8 @@ Ara he refet aquesta aplicació amb Python, s'anomena mantis-parla.py i em desca
  Doncs bé, mantis-parla.py descarrega els tickets nous de cada projecte que tenim configurat i s'autorefresca cada 60 segons.
 I quan detecta un ticket nou que no existia 60 segons abans, parla amb la veu computeritzada del espeak.
 
+[https://github.com/joancatala/mantis-parla/blob/master/mantis-bug-tracker-voice-veu-voz-espeak-text-to-speech-openbsd.png | Captura de pantalla]
+
 Al següent video es pot veure el seu funcionament (i jo truque l'aplicació modificant els fitxers que m'ha descarregat, per tal de que "detecte fitxers nous" i parle.) Pots escoltar la veu a partir del minut 0:34 segons.
 
 Evidentment sonaria millor amb flite o ivona, però no parla valenicà. O amb loquendo, però no em funciona de moment a OpenBSD (investigaré!).
